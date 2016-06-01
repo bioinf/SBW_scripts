@@ -1,0 +1,19 @@
+#go to
+#http://genepattern.broadinstitute.org/gp/pages/login.jsf
+#use login sbw
+#use password ******
+#just kidding. use password 111111
+#create a file on your local machine with the following list of genes:
+ACTN4
+NPHS2
+MYH9
+ARHGAP24
+CD2AP
+TRPC6
+APOL1
+INF2
+#after login search for module "dapple"
+#upload your file with genes and run
+#make sure to use "LD" instead of "nearest gene" option
+#open pdf with the plot
+

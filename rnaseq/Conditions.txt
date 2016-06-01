@@ -1,0 +1,14 @@
+Sample	Condition
+MPH_untr_rep1	untreated       
+MPH_untr_rep2	untreated
+MPH_untr_rep3	untreated
+MPH_untr_rep4	untreated
+MPH_IL4_rep1	IL4
+MPH_IL4_rep2	IL4
+MPH_IL4_rep3	IL4
+MPH_IL4_rep4	IL4
+MPH_LPS_6h_rep1	LPS_6h
+MPH_LPS_6h_rep2	LPS_6h
+MPH_LPS_6h_rep3	LPS_6h
+MPH_LPS_8h_rep1	LPS_8h
+MPH_LPS_8h_rep2	LPS_8h

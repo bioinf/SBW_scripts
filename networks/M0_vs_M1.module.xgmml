@@ -1,0 +1,614 @@
+<?xml version="1.0"?>
+<graph label="M0_vs_M1.module" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cy="http://www.cytoscape.org" xmlns="http://www.cs.rpi.edu/XGMML">
+  <att name="documentVersion" value="1.1"/>
+  <att name="networkMetadata">
+    <rdf:RDF>
+      <rdf:Description rdf:about="http://www.cytoscape.org/">
+        <dc:type>N/A</dc:type>
+        <dc:description>N/A</dc:description>
+        <dc:identifier>N/A</dc:identifier>
+        <dc:date>2016-05-15 16:18:53</dc:date>
+        <dc:title>M0_vs_M1.module</dc:title>
+        <dc:format>Cytoscape-XGMML</dc:format>
+      </rdf:Description>
+    </rdf:RDF>
+  </att>
+  <node label="C00219" id="1">
+    <att type="string" name="name" value="C00219"/>
+    <att type="string" name="label" value="Arachidonate"/>
+    <att type="string" name="formula" value="C20H32O2"/>
+    <att type="real" name="pval" value="0.530069759021239"/>
+    <att type="real" name="padj" value="0.743062452406882"/>
+    <att type="real" name="log2FC" value="0.112100000000003"/>
+    <att type="real" name="baseMean" value="13.3982487179487"/>
+    <att type="real" name="logPval" value="-0.915745859039156"/>
+    <att type="real" name="score" value="-9.08425414096084"/>
+  </node>
+  <node label="C00062" id="2">
+    <att type="string" name="name" value="C00062"/>
+    <att type="string" name="label" value="L-Arginine"/>
+    <att type="string" name="formula" value="C6H14N4O2"/>
+    <att type="real" name="pval" value="0.00369529007471436"/>
+    <att type="real" name="padj" value="0.0157105146889054"/>
+    <att type="real" name="log2FC" value="-0.267339999999997"/>
+    <att type="real" name="baseMean" value="17.8692794871795"/>
+    <att type="real" name="logPval" value="-8.08009666645411"/>
+    <att type="real" name="score" value="-1.91990333354589"/>
+  </node>
+  <node label="C00417" id="3">
+    <att type="string" name="name" value="C00417"/>
+    <att type="string" name="label" value="cis-Aconitate"/>
+    <att type="string" name="formula" value="C6H6O6"/>
+    <att type="real" name="pval" value="4.16818859784737e-11"/>
+    <att type="real" name="padj" value="8.22059417908787e-10"/>
+    <att type="real" name="log2FC" value="1.03466"/>
+    <att type="real" name="baseMean" value="14.2934615384615"/>
+    <att type="real" name="logPval" value="-34.4817884871082"/>
+    <att type="real" name="score" value="24.4817884871082"/>
+  </node>
+  <node label="C00157" id="4">
+    <att type="string" name="name" value="C00157"/>
+    <att type="string" name="label" value="Phosphatidylcholine"/>
+    <att type="string" name="formula" value="C10H18NO8PR2"/>
+    <att type="real" name="pval" value="0.0551332010852222"/>
+    <att type="real" name="padj" value="0.155954473189274"/>
+    <att type="real" name="log2FC" value="-0.377220000000001"/>
+    <att type="real" name="baseMean" value="11.2405769230769"/>
+    <att type="real" name="logPval" value="-4.18093482169044"/>
+    <att type="real" name="score" value="-5.81906517830956"/>
+  </node>
+  <node label="C00162" id="5">
+    <att type="string" name="name" value="C00162"/>
+    <att type="string" name="label" value="Fatty acid"/>
+    <att type="string" name="formula" value="CHO2R"/>
+    <att type="real" name="score" value="-10"/>
+  </node>
+  <node label="C00350" id="6">
+    <att type="string" name="name" value="C00350"/>
+    <att type="string" name="label" value="Phosphatidylethanolamine"/>
+    <att type="string" name="formula" value="C7H12NO8PR2"/>
+    <att type="real" name="pval" value="0.00251602278104656"/>
+    <att type="real" name="padj" value="0.0113781921945418"/>
+    <att type="real" name="log2FC" value="-0.47978"/>
+    <att type="real" name="baseMean" value="12.1240717948718"/>
+    <att type="real" name="logPval" value="-8.63463929966503"/>
+    <att type="real" name="score" value="-1.36536070033497"/>
+  </node>
+  <node label="C00049" id="7">
+    <att type="string" name="name" value="C00049"/>
+    <att type="string" name="label" value="L-Aspartate"/>
+    <att type="string" name="formula" value="C4H7NO4"/>
+    <att type="real" name="pval" value="4.38760671514591e-13"/>
+    <att type="real" name="padj" value="1.48342893702552e-11"/>
+    <att type="real" name="log2FC" value="0.735439999999997"/>
+    <att type="real" name="baseMean" value="16.4252846153846"/>
+    <att type="real" name="logPval" value="-41.0516310185369"/>
+    <att type="real" name="score" value="31.0516310185369"/>
+  </node>
+  <node label="C00327" id="8">
+    <att type="string" name="name" value="C00327"/>
+    <att type="string" name="label" value="L-Citrulline"/>
+    <att type="string" name="formula" value="C6H13N3O3"/>
+    <att type="real" name="score" value="-10"/>
+  </node>
+  <node label="C00026" id="9">
+    <att type="string" name="name" value="C00026"/>
+    <att type="string" name="label" value="2-Oxoglutarate"/>
+    <att type="string" name="formula" value="C5H6O5"/>
+    <att type="real" name="pval" value="1.54088466764546e-10"/>
+    <att type="real" name="padj" value="2.14515316476133e-09"/>
+    <att type="real" name="log2FC" value="0.943420000000001"/>
+    <att type="real" name="baseMean" value="11.9811820512821"/>
+    <att type="real" name="logPval" value="-32.5955220660234"/>
+    <att type="real" name="score" value="22.5955220660234"/>
+  </node>
+  <node label="C00490" id="10">
+    <att type="string" name="name" value="C00490"/>
+    <att type="string" name="label" value="Itaconate"/>
+    <att type="string" name="formula" value="C5H6O4"/>
+    <att type="real" name="pval" value="8.83299961046411e-34"/>
+    <att type="real" name="padj" value="1.56785743085738e-31"/>
+    <att type="real" name="log2FC" value="3.11682"/>
+    <att type="real" name="baseMean" value="17.0747128205128"/>
+    <att type="real" name="logPval" value="-109.802651778301"/>
+    <att type="real" name="score" value="99.802651778301"/>
+  </node>
+  <node label="C00025" id="11">
+    <att type="string" name="name" value="C00025"/>
+    <att type="string" name="label" value="L-Glutamate"/>
+    <att type="string" name="formula" value="C5H9NO4"/>
+    <att type="real" name="pval" value="1.20783006610676e-10"/>
+    <att type="real" name="padj" value="2.04180796889476e-09"/>
+    <att type="real" name="log2FC" value="-0.549039999999998"/>
+    <att type="real" name="baseMean" value="19.7019692307692"/>
+    <att type="real" name="logPval" value="-32.9468634578122"/>
+    <att type="real" name="score" value="22.9468634578122"/>
+  </node>
+  <node label="C00111" id="12">
+    <att type="string" name="name" value="C00111"/>
+    <att type="string" name="label" value="Glycerone phosphate"/>
+    <att type="string" name="formula" value="C3H7O6P"/>
+    <att type="real" name="pval" value="6.60360254334681e-13"/>
+    <att type="real" name="padj" value="2.03850339381575e-11"/>
+    <att type="real" name="log2FC" value="0.653419999999999"/>
+    <att type="real" name="baseMean" value="15.2340076923077"/>
+    <att type="real" name="logPval" value="-40.4618119433872"/>
+    <att type="real" name="score" value="30.4618119433872"/>
+  </node>
+  <node label="C00670" id="13">
+    <att type="string" name="name" value="C00670"/>
+    <att type="string" name="label" value="sn-Glycero-3-phosphocholine"/>
+    <att type="string" name="formula" value="C8H21NO6P"/>
+    <att type="real" name="pval" value="2.9783948912175e-08"/>
+    <att type="real" name="padj" value="3.35660376629274e-07"/>
+    <att type="real" name="log2FC" value="0.697839999999996"/>
+    <att type="real" name="baseMean" value="19.0041205128205"/>
+    <att type="real" name="logPval" value="-25.0008897124213"/>
+    <att type="real" name="score" value="15.0008897124213"/>
+  </node>
+  <node label="C00093" id="14">
+    <att type="string" name="name" value="C00093"/>
+    <att type="string" name="label" value="sn-Glycerol 3-phosphate"/>
+    <att type="string" name="formula" value="C3H9O6P"/>
+    <att type="real" name="score" value="-10"/>
+  </node>
+  <node label="C00036" id="15">
+    <att type="string" name="name" value="C00036"/>
+    <att type="string" name="label" value="Oxaloacetate"/>
+    <att type="string" name="formula" value="C4H4O5"/>
+    <att type="real" name="score" value="-10"/>
+  </node>
+  <node label="C00427" id="16">
+    <att type="string" name="name" value="C00427"/>
+    <att type="string" name="label" value="Prostaglandin H2"/>
+    <att type="string" name="formula" value="C20H32O5"/>
+    <att type="real" name="pval" value="0.373468926000228"/>
+    <att type="real" name="padj" value="0.597213823108473"/>
+    <att type="real" name="log2FC" value="-0.0672399999999982"/>
+    <att type="real" name="baseMean" value="13.5008512820513"/>
+    <att type="real" name="logPval" value="-1.42093988445744"/>
+    <att type="real" name="score" value="-8.57906011554256"/>
+  </node>
+  <node label="C00118" id="17">
+    <att type="string" name="name" value="C00118"/>
+    <att type="string" name="label" value="D-Glyceraldehyde 3-phosphate"/>
+    <att type="string" name="formula" value="C3H7O6P"/>
+    <att type="real" name="score" value="-10"/>
+  </node>
+  <node label="C01595" id="18">
+    <att type="string" name="name" value="C01595"/>
+    <att type="string" name="label" value="Linoleate"/>
+    <att type="string" name="formula" value="C18H32O2"/>
+    <att type="real" name="pval" value="0.000436316031358598"/>
+    <att type="real" name="padj" value="0.00222866462060867"/>
+    <att type="real" name="log2FC" value="0.425879999999999"/>
+    <att type="real" name="baseMean" value="13.1492666666667"/>
+    <att type="real" name="logPval" value="-11.162338896583"/>
+    <att type="real" name="score" value="1.162338896583"/>
+  </node>
+  <node label="C06427" id="19">
+    <att type="string" name="name" value="C06427"/>
+    <att type="string" name="label" value="(9Z,12Z,15Z)-Octadecatrienoic acid"/>
+    <att type="string" name="formula" value="C18H30O2"/>
+    <att type="real" name="pval" value="0.0719385203979428"/>
+    <att type="real" name="padj" value="0.187780696626983"/>
+    <att type="real" name="log2FC" value="0.311939999999996"/>
+    <att type="real" name="baseMean" value="15.2081205128205"/>
+    <att type="real" name="logPval" value="-3.79709170275768"/>
+    <att type="real" name="score" value="-6.20290829724232"/>
+  </node>
+  <node label="C00077" id="20">
+    <att type="string" name="name" value="C00077"/>
+    <att type="string" name="label" value="L-Ornithine"/>
+    <att type="string" name="formula" value="C5H12N2O2"/>
+    <att type="real" name="pval" value="0.00037645008484634"/>
+    <att type="real" name="padj" value="0.00197984859437705"/>
+    <att type="real" name="log2FC" value="0.341979999999996"/>
+    <att type="real" name="baseMean" value="17.971058974359"/>
+    <att type="real" name="logPval" value="-11.3752537951799"/>
+    <att type="real" name="score" value="1.3752537951799"/>
+  </node>
+  <node label="C00074" id="21">
+    <att type="string" name="name" value="C00074"/>
+    <att type="string" name="label" value="Phosphoenolpyruvate"/>
+    <att type="string" name="formula" value="C3H5O6P"/>
+    <att type="real" name="pval" value="3.16212490322783e-19"/>
+    <att type="real" name="padj" value="1.87092390107647e-17"/>
+    <att type="real" name="log2FC" value="1.41142"/>
+    <att type="real" name="baseMean" value="12.8276641025641"/>
+    <att type="real" name="logPval" value="-61.455739447906"/>
+    <att type="real" name="score" value="51.455739447906"/>
+  </node>
+  <node label="C00158" id="22">
+    <att type="string" name="name" value="C00158"/>
+    <att type="string" name="label" value="Citrate"/>
+    <att type="string" name="formula" value="C6H8O7"/>
+    <att type="real" name="pval" value="1.53085490994101e-09"/>
+    <att type="real" name="padj" value="1.8115116434302e-08"/>
+    <att type="real" name="log2FC" value="2.0965"/>
+    <att type="real" name="baseMean" value="17.3738897435897"/>
+    <att type="real" name="logPval" value="-29.2830152991875"/>
+    <att type="real" name="score" value="19.2830152991875"/>
+  </node>
+  <node label="C00311" id="23">
+    <att type="string" name="name" value="C00311"/>
+    <att type="string" name="label" value="Isocitrate"/>
+    <att type="string" name="formula" value="C6H8O7"/>
+    <att type="real" name="pval" value="1.53085490994101e-09"/>
+    <att type="real" name="padj" value="1.8115116434302e-08"/>
+    <att type="real" name="log2FC" value="2.0965"/>
+    <att type="real" name="baseMean" value="17.3738897435897"/>
+    <att type="real" name="logPval" value="-29.2830152991875"/>
+    <att type="real" name="score" value="19.2830152991875"/>
+  </node>
+  <node label="C00631" id="24">
+    <att type="string" name="name" value="C00631"/>
+    <att type="string" name="label" value="2-Phospho-D-glycerate"/>
+    <att type="string" name="formula" value="C3H7O7P"/>
+    <att type="real" name="pval" value="0.448315475754682"/>
+    <att type="real" name="padj" value="0.668493858529647"/>
+    <att type="real" name="log2FC" value="-0.120339999999997"/>
+    <att type="real" name="baseMean" value="13.2818717948718"/>
+    <att type="real" name="logPval" value="-1.15741379311382"/>
+    <att type="real" name="score" value="-8.84258620688618"/>
+  </node>
+  <node label="C00086" id="25">
+    <att type="string" name="name" value="C00086"/>
+    <att type="string" name="label" value="Urea"/>
+    <att type="string" name="formula" value="CH4N2O"/>
+    <att type="real" name="pval" value="0.758883019630629"/>
+    <att type="real" name="padj" value="0.893224546980779"/>
+    <att type="real" name="log2FC" value="0.0551799999999982"/>
+    <att type="real" name="baseMean" value="10.9957307692308"/>
+    <att type="real" name="logPval" value="-0.39805058079558"/>
+    <att type="real" name="score" value="-9.60194941920442"/>
+  </node>
+  <node label="C00236" id="26">
+    <att type="string" name="name" value="C00236"/>
+    <att type="string" name="label" value="3-Phospho-D-glyceroyl phosphate"/>
+    <att type="string" name="formula" value="C3H8O10P2"/>
+    <att type="real" name="pval" value="2.20731310667791e-11"/>
+    <att type="real" name="padj" value="5.18577048230299e-10"/>
+    <att type="real" name="log2FC" value="1.51774"/>
+    <att type="real" name="baseMean" value="9.70391282051282"/>
+    <att type="real" name="logPval" value="-35.3989177537846"/>
+    <att type="real" name="score" value="25.3989177537846"/>
+  </node>
+  <node label="C04230" id="27">
+    <att type="string" name="name" value="C04230"/>
+    <att type="string" name="label" value="1-Acyl-sn-glycero-3-phosphocholine"/>
+    <att type="string" name="formula" value="C9H20NO7PR"/>
+    <att type="real" name="pval" value="1.72686812244753e-05"/>
+    <att type="real" name="padj" value="0.000134733666696456"/>
+    <att type="real" name="log2FC" value="0.506900000000002"/>
+    <att type="real" name="baseMean" value="13.8937564102564"/>
+    <att type="real" name="logPval" value="-15.8214825631714"/>
+    <att type="real" name="score" value="5.8214825631714"/>
+  </node>
+  <node label="C03406" id="28">
+    <att type="string" name="name" value="C03406"/>
+    <att type="string" name="label" value="N-(L-Arginino)succinate"/>
+    <att type="string" name="formula" value="C10H18N4O6"/>
+    <att type="real" name="score" value="-10"/>
+  </node>
+  <node label="C01159" id="29">
+    <att type="string" name="name" value="C01159"/>
+    <att type="string" name="label" value="2,3-Bisphospho-D-glycerate"/>
+    <att type="string" name="formula" value="C3H8O10P2"/>
+    <att type="real" name="pval" value="2.20731310667791e-11"/>
+    <att type="real" name="padj" value="5.18577048230299e-10"/>
+    <att type="real" name="log2FC" value="1.51774"/>
+    <att type="real" name="baseMean" value="9.70391282051282"/>
+    <att type="real" name="logPval" value="-35.3989177537846"/>
+    <att type="real" name="score" value="25.3989177537846"/>
+  </node>
+  <edge label="C00219 (pp) C00427" source="1" target="16">
+    <att type="string" name="rxn" value="R01599"/>
+    <att type="integer" name="gene" value="19225"/>
+    <att type="string" name="symbol" value="Ptgs2"/>
+    <att type="real" name="pval" value="1.79835260400802e-26"/>
+    <att type="real" name="padj" value="4.48113501866718e-23"/>
+    <att type="real" name="log2FC" value="7.98285910787043"/>
+    <att type="real" name="baseMean" value="1856.67367762745"/>
+    <att type="real" name="logPval" value="-85.5234545484549"/>
+    <att type="real" name="score" value="65.5234545484549"/>
+  </edge>
+  <edge label="C00062 (pp) C00327" source="2" target="8">
+    <att type="string" name="rxn" value="R00557"/>
+    <att type="integer" name="gene" value="18126"/>
+    <att type="string" name="symbol" value="Nos2"/>
+    <att type="real" name="pval" value="3.04588902596827e-25"/>
+    <att type="real" name="padj" value="4.74359142181733e-22"/>
+    <att type="real" name="log2FC" value="11.6432920704454"/>
+    <att type="real" name="baseMean" value="733.09408579029"/>
+    <att type="real" name="logPval" value="-81.441338992605"/>
+    <att type="real" name="score" value="61.441338992605"/>
+  </edge>
+  <edge label="C00417 (pp) C00490" source="3" target="10">
+    <att type="string" name="rxn" value="R02243"/>
+    <att type="integer" name="gene" value="16365"/>
+    <att type="string" name="symbol" value="Irg1"/>
+    <att type="real" name="pval" value="8.82832706607205e-16"/>
+    <att type="real" name="padj" value="2.89452965568925e-13"/>
+    <att type="real" name="log2FC" value="10.2637068753336"/>
+    <att type="real" name="baseMean" value="16589.4912964686"/>
+    <att type="real" name="logPval" value="-50.0087094395704"/>
+    <att type="real" name="score" value="30.0087094395704"/>
+  </edge>
+  <edge label="C00062 (pp) C00077" source="2" target="20">
+    <att type="string" name="rxn" value="R00551"/>
+    <att type="integer" name="gene" value="11846"/>
+    <att type="string" name="symbol" value="Arg1"/>
+    <att type="real" name="pval" value="2.86467438085067e-10"/>
+    <att type="real" name="padj" value="3.67948227948644e-08"/>
+    <att type="real" name="log2FC" value="3.67804643472881"/>
+    <att type="real" name="baseMean" value="125.660105222325"/>
+    <att type="real" name="logPval" value="-31.7009097874934"/>
+    <att type="real" name="score" value="11.7009097874934"/>
+  </edge>
+  <edge label="C00062 (pp) C00086" source="2" target="25">
+    <att type="string" name="rxn" value="R00551"/>
+    <att type="integer" name="gene" value="11846"/>
+    <att type="string" name="symbol" value="Arg1"/>
+    <att type="real" name="pval" value="2.86467438085067e-10"/>
+    <att type="real" name="padj" value="3.67948227948644e-08"/>
+    <att type="real" name="log2FC" value="3.67804643472881"/>
+    <att type="real" name="baseMean" value="125.660105222325"/>
+    <att type="real" name="logPval" value="-31.7009097874934"/>
+    <att type="real" name="score" value="11.7009097874934"/>
+  </edge>
+  <edge label="C00157 (pp) C04230" source="4" target="27">
+    <att type="string" name="rxn" value="R01313"/>
+    <att type="integer" name="gene" value="18783"/>
+    <att type="string" name="symbol" value="Pla2g4a"/>
+    <att type="real" name="pval" value="2.28252466587967e-09"/>
+    <att type="real" name="padj" value="2.49455919405218e-07"/>
+    <att type="real" name="log2FC" value="4.61730963546231"/>
+    <att type="real" name="baseMean" value="261.569425820505"/>
+    <att type="real" name="logPval" value="-28.7067224033496"/>
+    <att type="real" name="score" value="8.7067224033496"/>
+  </edge>
+  <edge label="C00157 (pp) C00162" source="4" target="5">
+    <att type="string" name="rxn" value="R01315"/>
+    <att type="integer" name="gene" value="18783"/>
+    <att type="string" name="symbol" value="Pla2g4a"/>
+    <att type="real" name="pval" value="2.28252466587967e-09"/>
+    <att type="real" name="padj" value="2.49455919405218e-07"/>
+    <att type="real" name="log2FC" value="4.61730963546231"/>
+    <att type="real" name="baseMean" value="261.569425820505"/>
+    <att type="real" name="logPval" value="-28.7067224033496"/>
+    <att type="real" name="score" value="8.7067224033496"/>
+  </edge>
+  <edge label="C00219 (pp) C00157" source="1" target="4">
+    <att type="string" name="rxn" value="R01317"/>
+    <att type="integer" name="gene" value="18783"/>
+    <att type="string" name="symbol" value="Pla2g4a"/>
+    <att type="real" name="pval" value="2.28252466587967e-09"/>
+    <att type="real" name="padj" value="2.49455919405218e-07"/>
+    <att type="real" name="log2FC" value="4.61730963546231"/>
+    <att type="real" name="baseMean" value="261.569425820505"/>
+    <att type="real" name="logPval" value="-28.7067224033496"/>
+    <att type="real" name="score" value="8.7067224033496"/>
+  </edge>
+  <edge label="C00162 (pp) C00350" source="5" target="6">
+    <att type="string" name="rxn" value="R02053"/>
+    <att type="integer" name="gene" value="18783"/>
+    <att type="string" name="symbol" value="Pla2g4a"/>
+    <att type="real" name="pval" value="2.28252466587967e-09"/>
+    <att type="real" name="padj" value="2.49455919405218e-07"/>
+    <att type="real" name="log2FC" value="4.61730963546231"/>
+    <att type="real" name="baseMean" value="261.569425820505"/>
+    <att type="real" name="logPval" value="-28.7067224033496"/>
+    <att type="real" name="score" value="8.7067224033496"/>
+  </edge>
+  <edge label="C00157 (pp) C01595" source="4" target="18">
+    <att type="string" name="rxn" value="R07064"/>
+    <att type="integer" name="gene" value="18783"/>
+    <att type="string" name="symbol" value="Pla2g4a"/>
+    <att type="real" name="pval" value="2.28252466587967e-09"/>
+    <att type="real" name="padj" value="2.49455919405218e-07"/>
+    <att type="real" name="log2FC" value="4.61730963546231"/>
+    <att type="real" name="baseMean" value="261.569425820505"/>
+    <att type="real" name="logPval" value="-28.7067224033496"/>
+    <att type="real" name="score" value="8.7067224033496"/>
+  </edge>
+  <edge label="C00157 (pp) C06427" source="4" target="19">
+    <att type="string" name="rxn" value="R07859"/>
+    <att type="integer" name="gene" value="18783"/>
+    <att type="string" name="symbol" value="Pla2g4a"/>
+    <att type="real" name="pval" value="2.28252466587967e-09"/>
+    <att type="real" name="padj" value="2.49455919405218e-07"/>
+    <att type="real" name="log2FC" value="4.61730963546231"/>
+    <att type="real" name="baseMean" value="261.569425820505"/>
+    <att type="real" name="logPval" value="-28.7067224033496"/>
+    <att type="real" name="score" value="8.7067224033496"/>
+  </edge>
+  <edge label="C00049 (pp) C03406" source="7" target="28">
+    <att type="string" name="rxn" value="R01954"/>
+    <att type="integer" name="gene" value="11898"/>
+    <att type="string" name="symbol" value="Ass1"/>
+    <att type="real" name="pval" value="7.28935883143288e-08"/>
+    <att type="real" name="padj" value="5.64087712303244e-06"/>
+    <att type="real" name="log2FC" value="6.77210188782069"/>
+    <att type="real" name="baseMean" value="96.74218436506"/>
+    <att type="real" name="logPval" value="-23.7096328377418"/>
+    <att type="real" name="score" value="3.7096328377418"/>
+  </edge>
+  <edge label="C00327 (pp) C03406" source="8" target="28">
+    <att type="string" name="rxn" value="R01954"/>
+    <att type="integer" name="gene" value="11898"/>
+    <att type="string" name="symbol" value="Ass1"/>
+    <att type="real" name="pval" value="7.28935883143288e-08"/>
+    <att type="real" name="padj" value="5.64087712303244e-06"/>
+    <att type="real" name="log2FC" value="6.77210188782069"/>
+    <att type="real" name="baseMean" value="96.74218436506"/>
+    <att type="real" name="logPval" value="-23.7096328377418"/>
+    <att type="real" name="score" value="3.7096328377418"/>
+  </edge>
+  <edge label="C00026 (pp) C00311" source="9" target="23">
+    <att type="string" name="rxn" value="R00267"/>
+    <att type="integer" name="gene" value="15926"/>
+    <att type="string" name="symbol" value="Idh1"/>
+    <att type="real" name="pval" value="2.15824521209982e-07"/>
+    <att type="real" name="padj" value="1.48561199433987e-05"/>
+    <att type="real" name="log2FC" value="-2.5804571332246"/>
+    <att type="real" name="baseMean" value="1081.07232397003"/>
+    <att type="real" name="logPval" value="-22.143637876224"/>
+    <att type="real" name="score" value="2.143637876224"/>
+  </edge>
+  <edge label="C00670 (pp) C04230" source="13" target="27">
+    <att type="string" name="rxn" value="R02746"/>
+    <att type="integer" name="gene" value="241274"/>
+    <att type="string" name="symbol" value="Pnpla7"/>
+    <att type="real" name="pval" value="0.000694727956998434"/>
+    <att type="real" name="padj" value="0.014481617426893"/>
+    <att type="real" name="log2FC" value="-2.35630316431532"/>
+    <att type="real" name="baseMean" value="100.477162759656"/>
+    <att type="real" name="logPval" value="-10.4912642246231"/>
+    <att type="real" name="score" value="-9.5087357753769"/>
+  </edge>
+  <edge label="C00111 (pp) C00093" source="12" target="14">
+    <att type="string" name="rxn" value="R00848"/>
+    <att type="integer" name="gene" value="14571"/>
+    <att type="string" name="symbol" value="Gpd2"/>
+    <att type="real" name="pval" value="0.00124143961841522"/>
+    <att type="real" name="padj" value="0.0226458216776504"/>
+    <att type="real" name="log2FC" value="1.90545137656211"/>
+    <att type="real" name="baseMean" value="302.806073282274"/>
+    <att type="real" name="logPval" value="-9.653770191759"/>
+    <att type="real" name="score" value="-10.346229808241"/>
+  </edge>
+  <edge label="C00049 (pp) C00036" source="7" target="15">
+    <att type="string" name="rxn" value="R00357"/>
+    <att type="integer" name="gene" value="14204"/>
+    <att type="string" name="symbol" value="Il4i1"/>
+    <att type="real" name="pval" value="0.00126294324138028"/>
+    <att type="real" name="padj" value="0.0229373321346311"/>
+    <att type="real" name="log2FC" value="-Infinity"/>
+    <att type="real" name="baseMean" value="3.36062823731141"/>
+    <att type="real" name="logPval" value="-9.62899448102292"/>
+    <att type="real" name="score" value="-10.3710055189771"/>
+  </edge>
+  <edge label="C00111 (pp) C00118" source="12" target="17">
+    <att type="string" name="rxn" value="R01015"/>
+    <att type="integer" name="gene" value="21991"/>
+    <att type="string" name="symbol" value="Tpi1"/>
+    <att type="real" name="pval" value="0.0273042561191137"/>
+    <att type="real" name="padj" value="0.223805083544762"/>
+    <att type="real" name="log2FC" value="1.24513565936713"/>
+    <att type="real" name="baseMean" value="726.432544576715"/>
+    <att type="real" name="logPval" value="-5.19473033740806"/>
+    <att type="real" name="score" value="-14.8052696625919"/>
+  </edge>
+  <edge label="C00026 (pp) C00025" source="9" target="11">
+    <att type="string" name="rxn" value="R00667"/>
+    <att type="integer" name="gene" value="18242"/>
+    <att type="string" name="symbol" value="Oat"/>
+    <att type="real" name="pval" value="0.0529735045226575"/>
+    <att type="real" name="padj" value="0.343390683063366"/>
+    <att type="real" name="log2FC" value="-1.04766066292137"/>
+    <att type="real" name="baseMean" value="352.583713014923"/>
+    <att type="real" name="logPval" value="-4.23858523484504"/>
+    <att type="real" name="score" value="-15.761414765155"/>
+  </edge>
+  <edge label="C00036 (pp) C00074" source="15" target="21">
+    <att type="string" name="rxn" value="R00431"/>
+    <att type="integer" name="gene" value="74551"/>
+    <att type="string" name="symbol" value="Pck2"/>
+    <att type="real" name="pval" value="0.0909507788410256"/>
+    <att type="real" name="padj" value="0.467859518406415"/>
+    <att type="real" name="log2FC" value="-1.34835514793646"/>
+    <att type="real" name="baseMean" value="56.7639552086957"/>
+    <att type="real" name="logPval" value="-3.45877019757939"/>
+    <att type="real" name="score" value="-16.5412298024206"/>
+  </edge>
+  <edge label="C00074 (pp) C00631" source="21" target="24">
+    <att type="string" name="rxn" value="R00658"/>
+    <att type="integer" name="gene" value="13806"/>
+    <att type="string" name="symbol" value="Eno1"/>
+    <att type="real" name="pval" value="0.162067112608231"/>
+    <att type="real" name="padj" value="0.625997888848749"/>
+    <att type="real" name="log2FC" value="1.04881536627603"/>
+    <att type="real" name="baseMean" value="89.4335611473784"/>
+    <att type="real" name="logPval" value="-2.62533673253724"/>
+    <att type="real" name="score" value="-17.3746632674628"/>
+  </edge>
+  <edge label="C00036 (pp) C00158" source="15" target="22">
+    <att type="string" name="rxn" value="R00352"/>
+    <att type="integer" name="gene" value="104112"/>
+    <att type="string" name="symbol" value="Acly"/>
+    <att type="real" name="pval" value="0.33179131238418"/>
+    <att type="real" name="padj" value="0.822856008768369"/>
+    <att type="real" name="log2FC" value="-0.593658797378489"/>
+    <att type="real" name="baseMean" value="39.7492366364518"/>
+    <att type="real" name="logPval" value="-1.59165198359162"/>
+    <att type="real" name="score" value="-18.4083480164084"/>
+  </edge>
+  <edge label="C00158 (pp) C00311" source="22" target="23">
+    <att type="string" name="rxn" value="R01324"/>
+    <att type="integer" name="gene" value="11428"/>
+    <att type="string" name="symbol" value="Aco1"/>
+    <att type="real" name="pval" value="0.334924419841116"/>
+    <att type="real" name="padj" value="0.823995867177881"/>
+    <att type="real" name="log2FC" value="-0.80000776258061"/>
+    <att type="real" name="baseMean" value="49.2515344978043"/>
+    <att type="real" name="logPval" value="-1.57809252595143"/>
+    <att type="real" name="score" value="-18.4219074740486"/>
+  </edge>
+  <edge label="C00417 (pp) C00311" source="3" target="23">
+    <att type="string" name="rxn" value="R01900"/>
+    <att type="integer" name="gene" value="11428"/>
+    <att type="string" name="symbol" value="Aco1"/>
+    <att type="real" name="pval" value="0.334924419841116"/>
+    <att type="real" name="padj" value="0.823995867177881"/>
+    <att type="real" name="log2FC" value="-0.80000776258061"/>
+    <att type="real" name="baseMean" value="49.2515344978043"/>
+    <att type="real" name="logPval" value="-1.57809252595143"/>
+    <att type="real" name="score" value="-18.4219074740486"/>
+  </edge>
+  <edge label="C00670 (pp) C00093" source="13" target="14">
+    <att type="string" name="rxn" value="R01030"/>
+    <att type="integer" name="gene" value="74182"/>
+    <att type="string" name="symbol" value="Gpcpd1"/>
+    <att type="real" name="pval" value="0.474165270577903"/>
+    <att type="real" name="padj" value="0.89750905594417"/>
+    <att type="real" name="log2FC" value="0.560955662270721"/>
+    <att type="real" name="baseMean" value="200.720578164822"/>
+    <att type="real" name="logPval" value="-1.0765380959221"/>
+    <att type="real" name="score" value="-18.9234619040779"/>
+  </edge>
+  <edge label="C00631 (pp) C01159" source="24" target="29">
+    <att type="string" name="rxn" value="R09532"/>
+    <att type="integer" name="gene" value="17330"/>
+    <att type="string" name="symbol" value="Minpp1"/>
+    <att type="real" name="pval" value="0.640563983814174"/>
+    <att type="real" name="padj" value="0.936389754620642"/>
+    <att type="real" name="log2FC" value="0.243802886615004"/>
+    <att type="real" name="baseMean" value="123.671942061928"/>
+    <att type="real" name="logPval" value="-0.642585411094795"/>
+    <att type="real" name="score" value="-19.3574145889052"/>
+  </edge>
+  <edge label="C00118 (pp) C00236" source="17" target="26">
+    <att type="string" name="rxn" value="R01061"/>
+    <att type="integer" name="gene" value="14433"/>
+    <att type="string" name="symbol" value="Gapdh"/>
+    <att type="real" name="pval" value="0.871051797353997"/>
+    <att type="real" name="padj" value="0.958454558526998"/>
+    <att type="real" name="log2FC" value="0.639676547654185"/>
+    <att type="real" name="baseMean" value="9.08943050790192"/>
+    <att type="real" name="logPval" value="-0.199169583222989"/>
+    <att type="real" name="score" value="-19.800830416777"/>
+  </edge>
+  <edge label="C00236 (pp) C01159" source="26" target="29">
+    <att type="string" name="rxn" value="R01662"/>
+    <att type="integer" name="gene" value="12183"/>
+    <att type="string" name="symbol" value="Bpgm"/>
+    <att type="real" name="pval" value="0.921219310537532"/>
+    <att type="real" name="padj" value="0.970159443649868"/>
+    <att type="real" name="log2FC" value="-0.0142281035240615"/>
+    <att type="real" name="baseMean" value="17.6745354762435"/>
+    <att type="real" name="logPval" value="-0.118383441762747"/>
+    <att type="real" name="score" value="-19.8816165582373"/>
+  </edge>
+</graph>
+
